@@ -8,7 +8,7 @@ var appName = 'PersonalWebsite';
 var username = 'deploy';
 //this is the name of the file that runs when you start the program
 //var startFile = 'bin/www';
-var startFile = 'app.js';
+var startFile = 'bin/www';
 
 var tmpDir = appName+'-' + new Date().getTime();
 
